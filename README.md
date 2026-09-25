@@ -113,6 +113,7 @@ The changelog will be updated alongside new releases to show newly added texture
 
 **Amon** — For showing and teaching me the basics of texture replacement and modding.
 
-**dj.USA** — For helping with the most recent Nordic Style implementation and testing, and generally answering all my questions.
+**djUSA.GI** — For helping with the most recent Nordic Style implementation and testing, and generally answering all my questions.
 
 **Penumbra Mod Discord & XMA Mod Discord** — All the amazing creators in both communities who continue to help with modding, resources, information, and answering questions.
+
