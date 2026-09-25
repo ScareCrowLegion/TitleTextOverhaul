@@ -1,21 +1,84 @@
-Title Text Overhaul
+# Title Text Overhaul
 
-A Final Fantasy XIV mod that replaces various title text textures with redesigned versions.
+Title Text Overhaul is a texture replacement mod pack for FFXIV 7.0+.
 
-Installation
+It has been created with the intention in mind to improve the ambient screen space in the game instead of making it worse or clouding it up with useless information.
 
-Install the mod using Penumbra.
+The goal is to replace and redesign the different title textures that appear throughout FFXIV while still keeping them easy to read and fitting with the game.
 
-Download the latest version from the Releases section and import the mod package into Penumbra.
+## Current Version
 
-Updates
+**Version 2.1.1**
 
-New and updated title textures will be added as the overhaul progresses.
+## Current Progress
 
-See the Changelog for details about each release.
+The current workflow has completed up to **Shadowbringers**, though some title text may still be missing.
 
-Compatibility
+Reports will show which titles are missing and which ones should or need to be fixed in future updates.
 
-Designed for Final Fantasy XIV.
+Current expansion progress:
 
-This is a visual texture replacement and does not modify game functionality.
+* A Realm Reborn — Complete
+* Post-A Realm Reborn — Complete
+* Heavensward — Complete
+* Post-Heavensward — Complete
+* Stormblood — Complete
+* Post-Stormblood — Complete
+* Shadowbringers — Complete / Review
+* Post-Shadowbringers — Not Started
+* Endwalker — Not Started
+* Post-Endwalker — Not Started
+* Dawntrail — Not Started
+* Post-Dawntrail — Not Started
+
+## Styles
+
+### Default Style
+
+The main style used throughout Title Text Overhaul.
+
+### Nordic Style
+
+The Nordic Style was created as a requested style and is currently available for:
+
+* Quest Accepted
+* Quest Completed
+* Duty Commenced
+* Duty Failed
+* Duty Complete
+* FATE Joined
+* FATE Failed
+* FATE Complete
+
+More titles may be added to the Nordic Style in future updates.
+
+## Installation
+
+Title Text Overhaul is packaged as a `.pmp` for use with Penumbra.
+
+1. Download the latest `.pmp` from the Releases section.
+2. Open Penumbra.
+3. Import the downloaded `.pmp`.
+4. Enable Title Text Overhaul.
+
+When updating from an older version, it is recommended to remove the previous version before importing the newest `.pmp`.
+
+## Reporting Missing Titles
+
+The project currently covers a large number of title textures, so there may still be titles that have been missed.
+
+If you find a title that is still using the original FFXIV texture or appears to be missing from the overhaul, please report it so it can be checked and added to a future update.
+
+## Updates
+
+Updates will be posted through GitHub Releases.
+
+The changelog will be updated alongside new releases to show newly added textures, updated styles, fixes, and other changes made to the mod.
+
+## Credits
+
+**Amon** — For showing and teaching me the basics of texture replacement and modding.
+
+**dj.USA** — For helping with the most recent Nordic Style implementation and testing, and generally answering all my questions.
+
+**Penumbra Mod Discord & XMA Mod Discord** — All the amazing creators in both communities who continue to help with modding, resources, information, and answering questions.
