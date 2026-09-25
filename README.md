@@ -81,11 +81,19 @@ Title Text Overhaul is packaged as a `.pmp` for use with Penumbra.
 
 When updating from an older version, it is recommended to remove the previous version before importing the newest `.pmp`.
 
-## Reporting Missing Titles
+## Reporting Missing or Incorrect Titles
 
-The project currently covers a large number of title textures, so there may still be titles that have been missed.
+With the amount of title textures used throughout FFXIV, some may have been missed or may not display correctly.
 
-If you find a title that is still using the original FFXIV texture or appears to be missing from the overhaul, please report it so it can be checked and added to a future update.
+If you find one, please open an Issue and include:
+
+- The title text that appeared
+- Where you encountered it
+- Expansion or content type if known
+- A screenshot if possible
+- Whether the original FFXIV title appeared or something from the overhaul displayed incorrectly
+
+Reports will help identify missing textures and issues that need to be fixed in future updates.
 
 ## Updates
 
