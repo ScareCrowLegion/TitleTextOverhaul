@@ -10,6 +10,14 @@ The goal is to replace and redesign the different title textures that appear thr
 
 **Version 2.1.1**
 
+## Download
+
+The latest version of Title Text Overhaul can be downloaded from the [GitHub Releases](../../releases/latest) page.
+
+Current Release: **v2.1.1**
+
+Download the `.pmp` file from the Assets section of the latest release and import it into Penumbra.
+
 ## Current Progress
 
 The current workflow has completed up to **Shadowbringers**, though some title text may still be missing.
