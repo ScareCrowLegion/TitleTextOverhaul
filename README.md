@@ -52,6 +52,24 @@ The Nordic Style was created as a requested style and is currently available for
 
 More titles may be added to the Nordic Style in future updates.
 
+## Previews
+
+### Nordic Style
+
+#### Quest Titles
+![Nordic Quest Titles](previews/nordic-quest.png)
+
+#### Duty Titles
+![Nordic Duty Titles](previews/nordic-duty.png)
+
+#### FATE Titles
+![Nordic FATE Titles](previews/nordic-fate.png)
+
+#### In-Game Preview
+![Nordic Style In-Game](previews/nordic-ingame-quest.png)
+
+*Quest Completed shown in-game using the Nordic Style.*
+
 ## Installation
 
 Title Text Overhaul is packaged as a `.pmp` for use with Penumbra.
