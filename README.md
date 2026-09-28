@@ -8,13 +8,13 @@ The goal is to replace and redesign the different title textures that appear thr
 
 ## Current Version
 
-**Version 2.1.1**
+**Version 2.1.2*
 
 ## Download
 
 The latest version of Title Text Overhaul can be downloaded from the [GitHub Releases](../../releases/latest) page.
 
-Current Release: **v2.1.1**
+Current Release: **v2.1.2**
 
 Download the `.pmp` file from the Assets section of the latest release and import it into Penumbra.
 
